@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Single Test Suite">
+
+    <test name="Login Test">
+
+        <classes>
+
+            <class name="com.automation.SeleniumTestNGFramework.tests.LoginTest">
+
+                <methods>
+                    <include name="validLogin"/>
+                </methods>
+
+            </class>
+
+        </classes>
+
+    </test>
+
+</suite>

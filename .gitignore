@@ -1,0 +1,14 @@
+# Maven
+target/
+.mvn/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Test output
+test-output/
+
+# Logs
+*.log
